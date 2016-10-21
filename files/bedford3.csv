@@ -1,0 +1,2 @@
+	``map()``	applies	the	function	``func``	to	all	the.1	elements	of	the.2	sequence	``seq``.
+0	It	returns	a	new	list	with	the	elements	changed	by	``func``.		
